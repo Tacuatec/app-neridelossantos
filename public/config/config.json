@@ -1,0 +1,49 @@
+{
+  "radio": [
+    {
+      "radio_name": "Neri De Los Santos Radio",
+      "radio_genre": "Uruguay",
+      "radio_url": "https://srv2.radiostreamuy.com:8020/stream",
+      "radio_image_url": "https://app.neridelossantos.com/img/logo.png",
+      "background_image_url": "https://app.neridelossantos.com/img/bg_radio.jpg"
+    }
+  ],
+  "settings": [
+    {
+      "onesignal_app_id": "2dbf9ff0-6345-49b5-bda5-2ee8c7cff510",
+      "fcm_notification_topic": "neri_radio_topic",
+      "privacy_policy_url": "https://tacuatec.com/privacidad-apps.html",
+      "more_apps_url": "https://play.google.com/store/apps/developer?id=Tacuatec"
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "off",
+      "ad_type": "admob",
+      "admob_publisher_id": "pub-3940256099942544",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "startapp_app_id": 0,
+      "unity_game_id": 4089993,
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "interstitial_ad_interval": 2
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "Sitio web",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61027.png",
+      "social_url": "https://neridelossantos.com"
+    },
+    {
+      "social_name": "Facebook",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61045.png",
+      "social_url": "https://facebook.com/neridelosantos"
+    }
+  ]
+}
